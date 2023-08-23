@@ -1,0 +1,7 @@
+"gmod-test-101"
+{
+    "base"        "base"
+    "title"       "Gmod-Test-101"
+    "maps"        ""
+    "menusystem"  "1"
+}
